@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>IMMS Center</title>
+	<style>
+		.top-button{
+				padding-top: 50px ;
+         	padding-left: 80px;
+         	background-color: orange;
+         	height: 100px;
+
+		}
+		.top-button a{
+			font-family: MingLiU_HKSCS-ExtB;
+			font-size: 20px;
+			border: 2px solid green;	
+			font-size: 30px;
+			text-decoration: none;
+			color: red;
+			font-weight: bold;
+			background: white;
+			}
+			.top-button a:hover{
+				color: white;
+				background: orangered;
+				border: 4px solid yellow;
+				
+			}
+			.top-button h1{
+				font-family: Ink free;
+				color: yellow;
+			}
+			.trial{
+				padding-left: 80px;padding-top: 30px;
+			}
+			.trial button{
+				width: 200px;
+		height: 50px;
+		background-color: darkblue;
+		font-weight: bold;
+		font-family: MingLiU_HKSCS-ExtB;
+		font-size: 30px;
+		color: orange;
+			}
+			.trial h1{
+				font-size: 40px;
+				font-family: cursive;
+				color: green;
+				font-weight: bold;
+			}
+			.trial button:hover{
+				background: orange;
+				color: white;
+				border: 2px solid greenyellow;
+				font-size: 35px;
+			}
+			.nbsp h1{
+		font-size: 30px;
+		color:red;
+		font-family: sans-serif;
+		font-weight: bold;	
+	}
+	.nbsp p{
+		font-size: 20px;
+		color: blue;
+		font-family: cursive;
+	}
+	.nbsp button{
+		color: white;
+		background: red;
+	    font-size: 20px;
+	    font-family: cursive;
+	    border: 2px solid greenyellow;
+	}
+	.nbsp button:hover{
+		background: blue;
+		color: orange;
+		font-size: 25px;
+		font-family:cursive;
+	}
+
+	</style>
+</head>
+<body style="background: cyan;">
+	
+	<center><div class="top-button">
+
+	<h1>IMMS-Center &nbsp&nbsp&nbsp&nbsp&nbsp<a href="#">SignIn</a>
+	<a href="#">Activate Now</a>
+	<a href="#">Apply for Job</a>
+	<a href="#">Working of IMMS</a>
+	<a href="#">Contact Us</a>
+</h1>
+</div></center>
+<div class="trial">
+	<center><h1><u>Choose any subject of trial&nbsp&nbsp&nbsp&nbsp<br></u></h1></center>
+		<center><button>Maths</button>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+		<button>Physics</button>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+		<button>Chemistry</button>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+		<button>Biology</button></center>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+</div>
+<div class="nbsp">
+	<center><h1><b><u>Enjoy your lifetime course</b></u></h1></center>
+	<center><p>Just subscribe once to study all the classes starting from 6th to 10th on your Desktop, Laptop or any iOS or Android Mobile Devices. Yes you just need a single activation key to explore the plethora of knowledge.
+Activate it now and become the Champion of Maths and Science</p></center>
+	<center><a href=""><button>Activate your course</button></a></center>
+</div>
+<center><h1 style="color: green;font-family: cursive;">You can join the classes after enrollment</h1></center>
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th>Monday</th>
+      <th>Tuesday</th>
+      <th>Thursday</th>
+      <th>Friday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <b><td>English : 12:00pm--1:00pm</td>
+      <td>Maths : 1:00pm--2:00pm</td>
+      <td>Chemistry : 5:00pm--6:00pm</td>
+      <td>Physics : 6:30pm--7:30pm</td></b>
+    </tr>
+    <tr>
+      <td>Maths : 12:00pm--1:00pm</td>
+      <td>English : 1:00pm--2:00pm</td>
+      <td>Physics : 5:00pm--6:00pm</td>
+      <td>Chemistry : 6:30pm--7:30pm</td>
+    </tr>
+    <tr>
+       <td>Chemistry : 12:00pm--1:00pm</td>
+      <td>Physics : 1:00pm--2:00pm</td>
+      <td>English : 5:00pm--6:00pm</td>
+      <td>Maths : 6:30pm--7:30pm</td>
+    </tr>
+    <tr>
+     <td>Maths : 12:00pm--1:00pm</td>
+      <td>English : 1:00pm--2:00pm</td>
+      <td>Physics : 5:00pm--6:00pm</td>
+      <td>Chemistry : 6:30pm--7:30pm</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Codes by Quackit.com -->
+<style>
+	table.GeneratedTable {
+  width: 100%;
+  background-color: #f5f5f5;
+  border-collapse: collapse;
+  border-width: 5px;
+  border-color: #ffcc00;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 5px;
+  border-color: #ffcc00;
+  border-style: solid;
+  padding: 8px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffcc00;
+}
+	}
+</style>
+<center><h1 style="color: orange; font-family: cursive; font-size: 30px;"><b>
+	The Beniefits of IMMS MEMBERSHIP
+</b></h1></center>
+<p class="Beniefits">1)Unlimited access with high quality videos for all clases.</p>
+<p class="Beniefits">2)Fun filled learning through high quality audio and videos.</p>
+<p class="Beniefits">3)Clear, crisp and to the point text notes for quick revision</p>
+<p class="Beniefits">4)Practice to perfection using quizzes and mock tests.</p>
+<p class="Beniefits">5)Ask your doubts, we are happy to help our students.</p>
+<p class="Beniefits">6)Easy to use and Engaging User Interface.</p>
+<style>
+	.Beniefits{
+		text-align: center;
+		color: darkblue;
+		font-weight: bold;
+		font-family: cursive;
+	}
+	.enr{
+		width: 200px;
+		height: 50px;
+		font-size: 20px;
+		color: white;
+		font-family: cursive;
+		background-color: orange;
+		border: 2px solid green;
+		border-radius: 40px;
+		font-weight: bold;
+	}
+	.enr:hover {
+		background-color: green;
+		color: white;
+		font-family: cursive;
+		font-size: 20px;
+</style>
+<a href="Enroll.html">
+<center><button class="enr">Activate Now</button><br><br><br></a></center>
+<center><h1 style="color: blue; font-family: cursive;">We are really eager to answer your doubts</h1></center>
+<center><button class="poi">Ask your doubt</button></center>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<style>
+	.poi{
+			width: 200px;
+		height: 50px;
+		background-color: orange;
+		font-weight: bold;
+		font-family: cursive;
+		font-size: 20px;
+		color: white;
+		border-radius: 30px;
+	}
+	.poi:hover {
+		background-color: green;
+		color: white;
+		font-family: cursive;
+		font-size: 20px;
+	}
+	.lab1{
+		font-size: 20px;
+		color: black;
+		font-weight: bold;
+		font-family: Impact;
+	}
+
+</style>
+<style>
+	.but9{
+		width: 200px;
+		height: 50px;
+		background-color: red;
+		font-weight: bold;
+		font-family: MyWord Regular;
+		font-size: 20px;
+		color: white;
+		border-radius: 30px;
+	}
+	.but9:hover{
+		background-color: orange;
+	}
+</style>
+<center><button class="but9">Apply for job</button>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<button class="but9">Terms of use</button>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<button class="but9">Refund Policy</button>     
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<button class="but9">Privacy Policy</button></center>
+</body>
+</html>
